@@ -1,0 +1,23 @@
+.ui.fixed.borderless.top.menu {
+  background-color: #f5f5f5;
+  box-shadow: none;
+  border: none;
+}
+
+.ui.borderless.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.ui.centered.image {
+  margin-top: 50px;
+}
+
+#splash {
+  width: 100%;
+}
+
+.footer-background {
+  padding-top: 20px;
+  padding-bottom: 75px;
+}
